@@ -3,7 +3,7 @@ import numpy as np
 from collections import Counter
 import math
 import streamlit as st
-
+st.markdown("<h1 style='text-align: center;'>Code X</h1>", unsafe_allow_html=True)
 st.title("Naïve Bayesian Classifier Model")
 
 # File uploader
